@@ -1,0 +1,23 @@
+1. An EEPROM is:
+Ans: a. non-volatile
+
+2. A mask is:
+Ans: b. a sequence of bits used to identify bits of interest
+
+3. Assume that you have a byte but you are interested in only the 2 least significant bits of the byte. Which hexadecimal number represents the mask that you would use to help you?
+Ans: c. 0x03
+
+4. How many wires are used for communication in the I2C protocol?
+Ans: a. 2
+
+5. Which role describes a node that places data on the bus?
+Ans: c. Transmitter
+
+6. When is an Acknowledge bit sent?
+Ans: d. after each byte is sent
+
+7. True or False: The Wire.write() function buffers data before sending it.
+Ans: True
+
+8. True or False: The SDA line should never change while the SCL line is high.
+Ans: False
